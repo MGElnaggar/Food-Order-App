@@ -24,4 +24,4 @@ Welcome to Food Order App, your go-to solution for a hassle-free and delightful 
 2. Review your selected items and check the total price.
 3. Choose to proceed to checkout or continue adding more items to your order.
 
-Whether you're a food enthusiast exploring new flavors or someone looking for a quick and efficient way to satisfy your cravings, [Your App Name] is here to elevate your food ordering experience. Enjoy the convenience, simplicity, and security that our app provides, and let the culinary journey begin!
+Whether you're a food enthusiast exploring new flavors or someone looking for a quick and efficient way to satisfy your cravings, Food Order App is here to elevate your food ordering experience. Enjoy the convenience, simplicity, and security that our app provides, and let the culinary journey begin!
