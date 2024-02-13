@@ -28,5 +28,4 @@ Welcome to Food Order App, your go-to solution for a hassle-free and delightful 
 
 ---
 
-
-Whether you're a food enthusiast exploring new flavors or someone looking for a quick and efficient way to satisfy your cravings, Food Order App is here to elevate your food ordering experience. Enjoy the convenience, simplicity, and security that our app provides, and let the culinary journey begin!
+### Live Site: https://mgelnaggar.github.io/Food-Order-App/
