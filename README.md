@@ -28,4 +28,4 @@ Welcome to Food Order App, your go-to solution for a hassle-free and delightful 
 
 ---
 
-### Live Site: https://mgelnaggar.github.io/Food-Order-App/
+### View Site: https://mgelnaggar.github.io/Food-Order-App/
