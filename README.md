@@ -1,4 +1,4 @@
-# Food Order App
+# Order&Eat App
 
 Welcome to Food Order App, your go-to solution for a hassle-free and delightful food ordering experience! Our one-page web app is designed with simplicity and efficiency in mind, making it easy for users to explore a variety of mouth-watering dishes and place their orders with just a few clicks.
 
