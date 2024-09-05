@@ -28,4 +28,4 @@ Welcome to Order&Eat App, your go-to solution for a hassle-free and delightful f
 
 ---
 
-### View Site: https://mgelnaggar.github.io/Food-Order-App/
+### View Site: https://mgelnaggar.github.io/Order-And-Eat/
